@@ -6,14 +6,14 @@ modified: 2015-05-11
 tags: [count, integer, interval]
 ---
 
-**Description:**
+**Description:**<br>
 David writes down the decimal representations of all natural numbers between and including m and n, (m ≤ n). How many zeroes will he write down?
 
-**Input:**
+**Input:**<br>
 Input starts with an integer T (≤ 11000), denoting the number of test cases.
 Each case contains two unsigned 32-bit integers m and n, (m ≤ n).
 
-**Output:**
+**Output:**<br>
 For each case, print the case number and the number of zeroes written down by David.
 
 >Sample input:<br>
