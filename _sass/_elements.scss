@@ -70,7 +70,7 @@ svg:not(:root) {
   color: $white;
   border-width: 2px !important;
   border-style: solid !important;
-  border-color: $primary;
+  border-color: #00CCFF;
   @include rounded(3px);
   &:visited {
     color: $white;
@@ -89,7 +89,7 @@ svg:not(:root) {
   }
   &:hover {
     background-color: #00CCFF;
-    color: #00CCFF;
+    color: $white;
   }
 }
 .btn-success {
