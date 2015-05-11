@@ -63,8 +63,8 @@ svg:not(:root) {
 // --------------------------------------------------
 .btn {
   display: inline-block;
-  margin-bottom: 20px;
-  padding: 8px 20px;
+  margin-bottom: 15px;
+  padding: 5px 15px;
   @include font-rem(14);
   background-color: $primary;
   color: $white;
@@ -77,7 +77,7 @@ svg:not(:root) {
   }
   &:hover {
     background-color: $white;
-    color: $primary;
+    color: $00CCFF;
   }
 }
 .btn-inverse {
@@ -88,8 +88,8 @@ svg:not(:root) {
     color: $primary;
   }
   &:hover {
-    background-color: $primary;
-    color: $white;
+    background-color: $00CCFF;
+    color: $primary;
   }
 }
 .btn-success {
@@ -100,7 +100,7 @@ svg:not(:root) {
     color: $white;
   }
   &:hover {
-    background-color: $white;
+    background-color: $00CCFF;
     color: $success;
   }
 }
@@ -112,7 +112,7 @@ svg:not(:root) {
     color: $white;
   }
   &:hover {
-    background-color: $white;
+    background-color: $00CCFF;
     color: $warning;
   }
 }
@@ -124,7 +124,7 @@ svg:not(:root) {
     color: $white;
   }
   &:hover {
-    background-color: $white;
+    background-color: $00CCFF;
     color: $danger;
   }
 }
@@ -136,7 +136,7 @@ svg:not(:root) {
     color: $white;
   }
   &:hover {
-    background-color: $white;
+    background-color: $00CCFF;
     color: $info;
   }
 }
