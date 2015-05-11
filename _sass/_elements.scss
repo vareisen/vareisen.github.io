@@ -70,7 +70,7 @@ svg:not(:root) {
   color: $white;
   border-width: 2px !important;
   border-style: solid !important;
-  border-color: #00CCFF;
+  border-color: $primary;
   @include rounded(3px);
   &:visited {
     color: $white;
@@ -83,7 +83,7 @@ svg:not(:root) {
 .btn-inverse {
   background-color: $white;
   color: $primary;
-  border-color: $white;
+  border-color: #00CCFF;
   &:visited {
     color: $primary;
   }
