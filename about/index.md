@@ -1,34 +1,29 @@
 ---
 layout: page
-title: About the Jekyll Theme
-image:
-  feature: abstract-5.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+title: About me
 comments: false
 modified: 2014-12-24
 ---
+<h2>Nguyen Minh Huy (David)</h2>
+> Birthday: 15 - 08 - 1994<br>
+> Languages: Vietnamese, American English<br>
+> Hometown: Dong Thap province, Vn<br>
+> University: Studies iT at HUFLIT (2013-2017). Ho Chi Minh city. Vietnam<br>
+&nbsp;&bull;&nbsp;Mobile: +(84) 935 059109<br>
+&nbsp;&bull;&nbsp;Email: minhhuy150894@gmail.com<br>
 
-They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. 
-
-If you've used any of [my other themes](http://mademistakes.com/work/jekyll-themes/) most of this should be familiar territory...
-
-## What HPSTR brings to the table:
-
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrads in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Modern and minimal design.
-* Sweet animated menu.
-* Background image support.
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Built-in support for Sass courtesy of Jekyll 2.x.
-* Optional [Disqus](http://disqus.com) comments.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* Simple [custom 404 page]({{ site.url }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting]({{ site.url }}/code-highlighting-post/) to make your code examples look snazzy.
-
-<div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a> <a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download HPSTR</a></div>
-
-[^1]: Example: *domain.com/category-name/post-title*
+&nbsp;&bull;&nbsp;Programming Languages & other skills: C/C++/C#, Python, Java/Android, HTML5/CSS3/Js, PHP/Laravel, photoshop & illustrator design<br>
+<hr>
+<a href="http://github.com/minhhuy150894"><font color="pink">&nbsp;&bull;&nbsp;GitHub</font></a><br>
+<a href="http://daynhauhoc.com/users/david15894"><font color="lightgreen">&nbsp;&bull;&nbsp;DNH</font></a><br>
+<a href="https://plus.google.com/u/0/+HuyNguyenMinhStormChaser"><font color="orange">&nbsp;&bull;&nbsp;Google+</font></a><br>
+<a href="http://www.facebook.com/david15894"><font color="lightblue">&nbsp;&bull;&nbsp;Facebook</font></a>
+<br>
+{% highlight css %}
+while(alive) {
+    eat();
+    sleep();
+    code();
+    std::cout << "I love programming!";
+}
+{% endhighlight %}
