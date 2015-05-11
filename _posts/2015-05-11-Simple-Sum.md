@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Simple Sum Calculate
+title: Simple sum calculate
 description: "sum"
 modified: 2015-05-11
 tags: [sum, simple, cpp]
