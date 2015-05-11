@@ -68,10 +68,10 @@ svg:not(:root) {
   @include font-rem(14);
   background-color: $primary;
   color: $white;
-  border-width: 2px !important;
+  border-width: 0px !important;
   border-style: solid !important;
   border-color: $primary;
-  @include rounded(3px);
+  @include rounded(7px);
   &:visited {
     color: $white;
   }
