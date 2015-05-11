@@ -64,20 +64,20 @@ svg:not(:root) {
 .btn {
   display: inline-block;
   margin-bottom: 20px;
-  padding: 5px 15px;
+  padding: 8px 20px;
   @include font-rem(14);
   background-color: $primary;
   color: $white;
-  border-width: 1px !important;
+  border-width: 2px !important;
   border-style: solid !important;
   border-color: $primary;
-  @include rounded(7px);
+  @include rounded(3px);
   &:visited {
     color: $white;
   }
   &:hover {
-    background-color: #00CCFF;
-    color: $white;
+    background-color: $white;
+    color: $primary;
   }
 }
 .btn-inverse {
@@ -88,7 +88,7 @@ svg:not(:root) {
     color: $primary;
   }
   &:hover {
-    background-color: #00CCFF;
+    background-color: $primary;
     color: $white;
   }
 }
@@ -100,8 +100,8 @@ svg:not(:root) {
     color: $white;
   }
   &:hover {
-    background-color: #00CCFF;
-    color: $white;
+    background-color: $white;
+    color: $success;
   }
 }
 .btn-warning {
@@ -112,8 +112,8 @@ svg:not(:root) {
     color: $white;
   }
   &:hover {
-    background-color: #00CCFF;
-    color: $white;
+    background-color: $white;
+    color: $warning;
   }
 }
 .btn-danger {
@@ -124,8 +124,8 @@ svg:not(:root) {
     color: $white;
   }
   &:hover {
-    background-color: #00CCFF;
-    color: $white;
+    background-color: $white;
+    color: $danger;
   }
 }
 .btn-info {
@@ -136,8 +136,8 @@ svg:not(:root) {
     color: $white;
   }
   &:hover {
-    background-color: #00CCFF;
-    color: $white;
+    background-color: $white;
+    color: $info;
   }
 }
 
@@ -146,5 +146,5 @@ svg:not(:root) {
 .well {
   padding: 20px;
   border: 1px solid $comp-color;
-  @include rounded(7px);
+  @include rounded(4px);
 }

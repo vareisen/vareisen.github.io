@@ -1,7 +1,7 @@
-title:            storm.chaser
-description:      Some Personal Observations On TECH…and LIFE.
-disqus_shortname: Nguyen Minh Huy
-reading_time:     false
+title:            Site Title
+description:      Describe your website here.
+disqus_shortname: hpstrtheme
+reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
@@ -9,21 +9,21 @@ url:
 
 # Owner/author information
 owner:
-  name:           Huy Nguyen (David)
+  name:           Your Name
   avatar:         avatar.jpg
-  bio:            "Some Personal Observations On TECH…and LIFE."
-  email:          minhhuy150894@gmail.com
+  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  email:          you@email.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        david15894
-  facebook:       david15894
-  github:         minhhuy150894
+  twitter:        
+  facebook:       
+  github:         
   stackexchange:  
   linkedin:       
   instagram:      
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +HuyNguyenMinhStormChaser
+  google_plus:    +yourid
 
 # Background image to be tiled on all pages
 background: 
@@ -49,7 +49,7 @@ sass:
 permalink:   /:categories/:title/
 
 # Amount of post to show on home page
-paginate: 7
+paginate: 5
 
 kramdown:
   auto_ids: true
