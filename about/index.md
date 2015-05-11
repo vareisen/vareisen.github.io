@@ -2,7 +2,7 @@
 layout: page
 title: About me
 comments: false
-modified: 2014-12-24
+modified: 2015-05-11
 ---
 <h2>Nguyen Minh Huy (David)</h2>
 > Birthday: 15 - 08 - 1994<br>
