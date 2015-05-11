@@ -5,7 +5,7 @@ description: "sum"
 modified: 2015-05-11
 tags: [sum, simple, cpp]
 ---
-{% highlight css %}
+{% highlight cpp %}
 #include <iostream>
 using namespace std;
 int main()
