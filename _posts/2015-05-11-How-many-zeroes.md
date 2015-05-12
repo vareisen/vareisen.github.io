@@ -3,7 +3,7 @@ layout: post
 title: How many Zeroes will David write down?
 description: "abcd"
 modified: 2015-05-11
-tags: [count, integer, interval]
+tags: [count, integer, interval, cpp]
 ---
 
 **Description:**<br>
