@@ -6,7 +6,6 @@ modified: 2015-05-12
 tags: [OpenGL, cpp]
 ---
 
-test
 
 {% highlight cpp %}
 #include<GL\glut.h>
