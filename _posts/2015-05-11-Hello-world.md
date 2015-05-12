@@ -3,7 +3,7 @@ layout: post
 title: Hello world
 description: "hello"
 modified: 2015-05-11
-tags: [welcome, hello]
+tags: [welcome, hello, cpp]
 ---
 {% highlight cpp %}
 #include <iostream>
