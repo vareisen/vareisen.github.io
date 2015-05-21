@@ -7,6 +7,7 @@ tags: [BKAV, BPhone]
 ---
 >
 Mấy ngày nay, à không phải, mấy tháng nay rồi giới công nghệ đang sôi sục chuyện BKAV chuẩn bị tung ra chiếc smartphone “cao cấp” made in Vietnam. Chiếc điện thoại sẽ được ra mắt sắp tới đây vào ngày 26-5-2015. Nhưng trước ngày ra mắt đã có không ít những ý kiến trái chiều về sản phẩm này.
+
 <br>
 <img src="http://c1.f5.img.vnecdn.net/2015/05/18/Bphone-02-1325-1431964146.jpg" alt="">
 <br>
