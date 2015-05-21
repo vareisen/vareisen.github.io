@@ -14,16 +14,17 @@ modified: 2014-12-24
 
 &nbsp;&bull;&nbsp;Programming Languages & other skills: C/C++/C#, Python, Java/Android, HTML5/CSS3/Js, PHP/Laravel, photoshop & illustrator design<br>
 <hr>
-<a href="http://github.com/minhhuy150894"><font color="pink">&nbsp;&bull;&nbsp;GitHub</font></a><br>
+<a href="http://github.com/minhhuy150894"><font color="black">&nbsp;&bull;&nbsp;GitHub</font></a><br>
+<a href="https://twitter.com/david15894"><font color="blue">&nbsp;&bull;&nbsp;Twitter</font></a><br>
 <a href="http://daynhauhoc.com/users/david15894"><font color="lightgreen">&nbsp;&bull;&nbsp;DNH</font></a><br>
 <a href="https://plus.google.com/u/0/+HuyNguyenMinhStormChaser"><font color="orange">&nbsp;&bull;&nbsp;Google+</font></a><br>
-<a href="http://www.facebook.com/david15894"><font color="lightblue">&nbsp;&bull;&nbsp;Facebook</font></a>
+<a href="http://www.facebook.com/david15894"><font color="blue">&nbsp;&bull;&nbsp;Facebook</font></a>
 <br>
 {% highlight css %}
 while(alive) {
     eat();
     sleep();
     code();
-    std::cout << "I love programming!";
+    std::cout << "hello, world!";
 }
 {% endhighlight %}
