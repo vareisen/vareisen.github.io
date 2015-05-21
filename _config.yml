@@ -12,10 +12,10 @@ owner:
   name:           Nguyen.Minh.Huy
   avatar:         avatar.jpg
   bio:            "Some Personal Observations On TECH…and LIFE."
-  email:          minhhuy150894@gmail.com
+  email:          
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        david15894
-  facebook:       david15894
+  twitter:        
+  facebook:       
   github:         
   stackexchange:  
   linkedin:       
@@ -23,7 +23,7 @@ owner:
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +HuyNguyenMinhStormChaser
+  google_plus:    
 
 # Background image to be tiled on all pages
 background: 
