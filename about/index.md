@@ -12,6 +12,7 @@ modified: 2014-12-24
 &nbsp;&bull;&nbsp;<b>Mobile: +(84) 935 059109</b><br>
 &nbsp;&bull;&nbsp;<b>Email: minhhuy150894@gmail.com</b><br>
 
+<h4> My profiles: </h4>
 <hr>
 <a href="http://github.com/minhhuy150894"><font color="black">&nbsp;&bull;&nbsp;GitHub</font></a><br>
 <a href="https://twitter.com/david15894"><font color="black">&nbsp;&bull;&nbsp;Twitter</font></a><br>
