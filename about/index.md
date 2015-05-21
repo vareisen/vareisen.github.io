@@ -25,6 +25,6 @@ while(alive) {
     eat();
     sleep();
     code();
-    std::cout << "hello, world!";
 }
+std::cout << "hello, this is my blog !";
 {% endhighlight %}
