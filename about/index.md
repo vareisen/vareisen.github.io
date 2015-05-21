@@ -9,10 +9,9 @@ modified: 2014-12-24
 > Languages: Vietnamese, American English<br>
 > Hometown: Dong Thap province, Vn<br>
 > University: Studies iT at HUFLIT (2013-2017). Ho Chi Minh city. Vietnam<br>
-&nbsp;&bull;&nbsp;Mobile: +(84) 935 059109<br>
-&nbsp;&bull;&nbsp;Email: minhhuy150894@gmail.com<br>
+&nbsp;&bull;&nbsp;<b>Mobile: +(84) 935 059109</b><br>
+&nbsp;&bull;&nbsp;<b>Email: minhhuy150894@gmail.com</b><br>
 
-&nbsp;&bull;&nbsp;Programming Languages & other skills: C/C++/C#, Python, Java/Android, HTML5/CSS3/Js, PHP/Laravel, photoshop & illustrator design<br>
 <hr>
 <a href="http://github.com/minhhuy150894"><font color="black">&nbsp;&bull;&nbsp;GitHub</font></a><br>
 <a href="https://twitter.com/david15894"><font color="blue">&nbsp;&bull;&nbsp;Twitter</font></a><br>
