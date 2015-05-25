@@ -15,11 +15,10 @@ modified: 2014-12-24
 <hr>
 <h4> My profiles: </h4>
 <a href="http://github.com/minhhuy150894" class="btn btn">GitHub</a>
-<a href="http://github.com/minhhuy150894"><font color="black">&nbsp;&bull;&nbsp;GitHub</font></a><br>
-<a href="https://twitter.com/david15894"><font color="black">&nbsp;&bull;&nbsp;Twitter</font></a><br>
-<a href="http://daynhauhoc.com/users/david15894"><font color="black">&nbsp;&bull;&nbsp;DNH</font></a><br>
-<a href="https://plus.google.com/u/0/+HuyNguyenMinhStormChaser"><font color="black">&nbsp;&bull;&nbsp;Google+</font></a><br>
-<a href="http://www.facebook.com/david15894"><font color="black">&nbsp;&bull;&nbsp;Facebook</font></a>
+<a href="https://twitter.com/david15894" class="btn btn-info">Twitter</a>
+<a href="http://daynhauhoc.com/users/david15894" class="btn btn-success">DNH</a>
+<a href="https://plus.google.com/u/0/+HuyNguyenMinhStormChaser" class="btn btn-danger">Google+</a>
+<a href="http://www.facebook.com/david15894" class="btn btn-info">Facebook</a>
 <br>
 {% highlight css %}
 while(alive) {
