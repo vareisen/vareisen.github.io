@@ -15,3 +15,7 @@ Một bộ phận không nhỏ cho rằng với mức giá 13 triệu VNĐ thì 
 Tôi không hiểu tại sao các bạn lại chê bai “người nhà” của mình? Chẳng lẽ là GATO à? =)) <br>
 **=> người VN không muốn những người xung quanh thành công trong khi bản thân họ  không làm được trò trống gì, đa phần toàn những thành phần có “văn hóa ảo”.**
 
+<hr>
+<h2>LỘ DIỆN TRƯỚC NGÀY RA MẮT:</h2><br>
+<img src="http://i.imgur.com/3O2gJgF.jpg" alt="">
+
