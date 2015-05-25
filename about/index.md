@@ -13,7 +13,7 @@ modified: 2014-12-24
 &#128231;<b>  minhhuy150894@gmail.com</b><br>
 
 <hr>
-<h4> My profiles and other page: </h4>
+<h4> My profiles/other page: </h4>
 <a href="http://github.com/minhhuy150894" class="btn btn">GitHub</a>
 <a href="https://twitter.com/david15894" class="btn btn-info">Twitter</a>
 <a href="https://plus.google.com/u/0/+HuyNguyenMinhStormChaser" class="btn btn-danger">G+</a>
