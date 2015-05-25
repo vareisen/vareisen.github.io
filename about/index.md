@@ -14,6 +14,7 @@ modified: 2014-12-24
 
 <hr>
 <h4> My profiles: </h4>
+<a href="http://github.com/minhhuy150894" class="btn btn">GitHub</a>
 <a href="http://github.com/minhhuy150894"><font color="black">&nbsp;&bull;&nbsp;GitHub</font></a><br>
 <a href="https://twitter.com/david15894"><font color="black">&nbsp;&bull;&nbsp;Twitter</font></a><br>
 <a href="http://daynhauhoc.com/users/david15894"><font color="black">&nbsp;&bull;&nbsp;DNH</font></a><br>
