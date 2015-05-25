@@ -20,7 +20,7 @@ modified: 2014-12-24
 <a href="http://daynhauhoc.com/users/david15894" class="btn btn-success">D.N.H</a>
 <a href="http://www.facebook.com/david15894" class="btn btn-info">Facebook</a>
 <a href="https://vn.linkedin.com/in/minhhuy150894" class="btn btn-warning">LinkedIn</a>
-<a href="https://minhhuy150894.wordpress.com" class="btn btn-info">Wordpress page</a>
+<a href="https://minhhuy150894.wordpress.com" class="btn btn-info">Wordpress</a>
 
 
 
