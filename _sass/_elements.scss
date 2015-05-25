@@ -100,8 +100,8 @@ svg:not(:root) {
     color: $white;
   }
   &:hover {
-    background-color: #00CCFF;
-    color: $success;
+    background-color: #006633;
+    color: $white;
   }
 }
 .btn-warning {
@@ -124,8 +124,8 @@ svg:not(:root) {
     color: $white;
   }
   &:hover {
-    background-color: #00CCFF;
-    color: $danger;
+    background-color: #FF0033;
+    color: $white;
   }
 }
 .btn-info {
@@ -136,7 +136,7 @@ svg:not(:root) {
     color: $white;
   }
   &:hover {
-    background-color: #00CCFF;
+    background-color: #3399FF;
     color: $info;
   }
 }
