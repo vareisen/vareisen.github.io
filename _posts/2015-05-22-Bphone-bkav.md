@@ -17,7 +17,7 @@ Tôi không hiểu tại sao các bạn lại chê bai “người nhà” của
 <hr>
 <h2>LỘ DIỆN TRƯỚC NGÀY RA MẮT:</h2><br>
 <img src="http://i.imgur.com/3O2gJgF.jpg" alt="">
-<br><hr>
+<br>
 <h2>26 - 05 - 2015 - BPhone đã ra mắt</h2>
 <img src="http://i.imgur.com/pZvEmCA.jpg" alt="">
 <br>
