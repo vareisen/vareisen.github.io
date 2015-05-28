@@ -16,3 +16,11 @@ tags: [Documents, Download]
 <a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrTFpicl8zVjRYRzg/view?usp=sharing">3. Thuật toán</a><br>
 <a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrTG5qR0R6UkVPWjA/view?usp=sharing">4. Algorithms - Jeff Erickson</a><br>
 <a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrbW9BZWNqYk41NGM/view?usp=sharing">5. Advanced Algorithms Lecture Notes (Periklis A. Papakonstantinou)</a><br>
+<h1>C/C++/C#/DataStructure & Algorithms: </h1>
+<a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrN3ZnOXkzMVkwSzA/view?usp=sharing">1. C++ How to program (8th Edition)</a><br>
+<a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrZUpUdnNCejA0cUk/view?usp=sharing">2. Beginning C++ Through Game Programming 3e - Dawson - Course Tech (2011)</a><br>
+<a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrSUxxYUp0QW1IWTQ/view?usp=sharing">3. C++ CookBook</a><br>
+<a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrWWxUZG9reUdLNFU/view?usp=sharing">4. Data Structures And Algorithms in C++ Second Edition</a><br>
+
+
+
