@@ -21,6 +21,14 @@ tags: [Documents, Download]
 <a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrZUpUdnNCejA0cUk/view?usp=sharing">2. Beginning C++ Through Game Programming 3e - Dawson - Course Tech (2011)</a><br>
 <a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrSUxxYUp0QW1IWTQ/view?usp=sharing">3. C++ CookBook</a><br>
 <a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrWWxUZG9reUdLNFU/view?usp=sharing">4. Data Structures And Algorithms in C++ Second Edition</a><br>
-
-
-
+<a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrRFJhdkw0aVNERW8/view?usp=sharing">5. Giáo trình C căn bản (HaNoi Aptech)</a><br>
+<a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrY01fTmJwZ21kYW8/view?usp=sharing">6. HeadFirst C</a><br>
+<a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrQkVWMDJvS1ZPZkU/view?usp=sharing">7. Illustrating C (ANSI_ISO version) - Donald Alcock</a><br>
+<a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrbDRyb2NtODBiTWc/view?usp=sharing">8. Lập trình C# cơ bản (Nhất Nghệ)</a><br>
+<a href="https://drive.google.com/file/d/0B0PQXRyV7ZBra0dPRVJpLVBpNlk/view?usp=sharing">9. Sams Teach Yourself C++ in One Hour a Day 7th</a><br>
+<a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrQmJ0UEhiZ0xIRVU/view?usp=sharing">10. The ANSI C Programming Language Ritchie & Kernighan</a><br>
+<a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrQkE5WjlBWUc3Yms/view?usp=sharing">11. Thinking in C++ Volume 1</a><br>
+<a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrcnBaTmtOLXMwRzQ/view?usp=sharing">12. Thinking in C++ Volume 2</a><br>
+<a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrQWFTdm1aczloRG8/view?usp=sharing">13. Visual C# 2012 How to Program</a><br>
+<h1>Python:</h1>
+<a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrYk43eU1KV1BreFU/view?usp=sharing">1. Learn Python The Hard Way 3rd Edition</a><br>
