@@ -22,7 +22,8 @@ modified: 2014-12-24
 <a href="https://vn.linkedin.com/in/minhhuy150894" class="btn btn-warning">LinkedIn</a>
 <a href="https://minhhuy150894.wordpress.com" class="btn btn-info">Wordpress</a><br>
 <hr>
-Follow me on Facebook: <iframe src="//www.facebook.com/plugins/follow?href=https%3A%2F%2Fwww.facebook.com%2Fdavid15894&amp;layout=standard&amp;show_faces=true&amp;colorscheme=light&amp;width=450&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
+Follow me on Facebook: 
+<iframe src="//www.facebook.com/plugins/follow?href=https%3A%2F%2Fwww.facebook.com%2Fdavid15894&amp;layout=standard&amp;show_faces=true&amp;colorscheme=light&amp;width=450&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
 
 Follow me on Twitter: <a href="https://twitter.com/david15894" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @david15894</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
