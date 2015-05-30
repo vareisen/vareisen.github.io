@@ -6,7 +6,7 @@ modified: 2015-05-12
 tags: [OpenGL, cpp]
 ---
 
-<img src="http://i.imgur.com/cfxb4wY.gif?1">
+<img src="http://i.imgur.com/cfxb4wY.gif?1"><br>
 code here:
 
 {% highlight cpp %}
