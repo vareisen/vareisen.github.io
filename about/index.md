@@ -33,9 +33,8 @@ Twitter Update: <br>
 <a class="twitter-timeline" href="https://twitter.com/david15894" data-widget-id="604177055412944896">Tweets by @david15894</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
-<a title="web statistics" href="http://statcounter.com/"
+<a title="Stats" href=""
 target="_blank"><img
 src="http://c.statcounter.com/10463345/0/51de72be/0/"
 alt="web statistics" style="border:none;"></a>
-<a href="http://statcounter.com/p10463345/?guest=1">View My
-Stats</a>
+<a href="http://statcounter.com/p10463345/?guest=1"></a>
