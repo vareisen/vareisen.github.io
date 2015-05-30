@@ -13,9 +13,9 @@ tags: [Software, Download]
 <a href="http://sourceforge.net/projects/orwelldevcpp/">4. Orwell Dev-C++</a><br>
 <a href="https://netbeans.org/downloads/">5. NetBeans</a><br>
 <a href="https://www.jetbrains.com/pycharm/download/">6. PyCharm</a><br>
-<a href="https://www.jetbrains.com/phpstorm/download/">6. Php Storm</a><br>
-<a href="https://notepad-plus-plus.org/download/">7. NotePad++</a><br>
-<a href="https://github.com/adobe/brackets/releases">8. Brackets</a><br>
+<a href="https://www.jetbrains.com/phpstorm/download/">7. Php Storm</a><br>
+<a href="https://notepad-plus-plus.org/download/">8. NotePad++</a><br>
+<a href="https://github.com/adobe/brackets/releases">9. Brackets</a><br>
 
 <h2>Web Browser:</h2>
 <a href="https://www.google.com/chrome/browser/desktop/index.html">1. Google Chrome</a><br>
