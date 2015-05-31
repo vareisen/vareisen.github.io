@@ -13,14 +13,15 @@
 	@media #{$medium} {
 		position: fixed;
 		max-width: 175px;
-		top: 25px;
+		top: 50px;
 		left: 25px;
 	}
 	button {
 		top: 0;
 		left: 0;
 		background: $comp-color;
-		border: none;
+		border: 2px;
+		border-color: #fff;
 		width: 100px;
 		height: 45px;
 		text-indent: -900em;
