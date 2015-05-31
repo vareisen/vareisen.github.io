@@ -81,14 +81,14 @@ svg:not(:root) {
   }
 }
 .btn-inverse {
-  background-color: $white;
-  color: $primary;
+  background-color: $primary;
+  color: $white;
   border-color: #00CCFF;
   &:visited {
     color: $primary;
   }
   &:hover {
-    background-color: #00CCFF;
+    background-color: #33CCFF;
     color: $white;
   }
 }
