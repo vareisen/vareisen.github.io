@@ -4,7 +4,7 @@ title: About me
 comments: false
 modified: 2014-12-24
 ---
-<h2>Nguyen Minh Huy (David)</h2>
+<h2>Nguyen Minh Huy (David Ng)</h2>
 > Birthday: 15 - 08 - 1994<br>
 > Hometown: Dong Thap province, Vn<br>
 > Languages: Vietnamese, American English<br>
