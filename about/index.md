@@ -22,7 +22,6 @@ modified: 2014-12-24
 <a href="https://vn.linkedin.com/in/minhhuy150894" class="btn btn-warning">LinkedIn</a>
 <a href="https://minhhuy150894.wordpress.com" class="btn btn-info">Wordpress</a><br>
 <hr>
-<br>
 Twitter Update: <br>
 <a class="twitter-timeline" href="https://twitter.com/david15894" data-widget-id="604177055412944896">Tweets by @david15894</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
