@@ -5,7 +5,7 @@ comments: false
 modified: 2014-12-24
 ---
 
-Hello, i'm David Ng
+Hello, i'm David Ng <br>
 I'm interested in <b>Android</b> apps/games development, and also an amateur web developer and designer too. This page is just my blog, where i share everything about Tech, even my Life.
 
 <br>
