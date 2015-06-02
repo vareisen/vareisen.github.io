@@ -12,9 +12,9 @@ I'm interested in <b>Android</b> apps/games development, and also an amateur web
 <h3>Contact details: </h3>
 > Nguyen Minh Huy (David Ng)<br>
 > Birthday: 15 - 08 - 1994<br>
-> Hometown: Dong Thap province, Vn<br>
+> Hometown: Dong Thap prov, Vietnam<br>
 > Languages: Vietnamese, American English<br>
-> University: Studies iT at HUFLIT (2013-2017). Ho Chi Minh city. Vietnam<br>
+> University: HUFLIT (2013-2017). Ho Chi Minh city. Vietnam<br>
 &#128222;<b> +(84) 935 059109</b><br>
 &#128231;<b>  minhhuy150894@gmail.com</b><br>
 
