@@ -4,7 +4,13 @@ title: About me
 comments: false
 modified: 2014-12-24
 ---
-<h2>Nguyen Minh Huy (David Ng)</h2>
+
+Hello, i'm David Ng
+I'm interested in <b>Android</b> apps/games development, and also an amateur web developer and designer too. This page is just my blog, where i share everything about Tech, even my Life.
+
+<br>
+<h5>Contact details: </h5>
+> Nguyen Minh Huy (David Ng)<br>
 > Birthday: 15 - 08 - 1994<br>
 > Hometown: Dong Thap province, Vn<br>
 > Languages: Vietnamese, American English<br>
