@@ -45,13 +45,13 @@ body {
 	h1 {
 		margin: 10px 20px;
 		font-weight: 20;
-		@include font-rem(20);
+		@include font-rem(30);
 		color: lighten($base-color,20);
 		@media #{$medium} {
-			@include font-rem(20);
+			@include font-rem(30);
 		}
 		@media #{$large} {
-			@include font-rem(20);
+			@include font-rem(30);
 		}
 	}
 	h2 {
