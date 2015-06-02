@@ -56,12 +56,12 @@ body {
 	}
 	h2 {
 		margin: 0;
-		@include font-rem(18);
+		@include font-rem(15);
 		text-transform: none;
 		// text-transform: uppercase;
 		color: lighten($base-color,40);
 		@media #{$medium} {
-			@include font-rem(24);
+			@include font-rem(15);
 		}
 	}
 	p {
@@ -74,7 +74,7 @@ body {
 	display: table;
 	margin-top: 0;
 	width: 100%;
-	height: 300px;
+	height: 200px;
 	overflow: hidden;
 	.header-title-wrap {
 		display: table-cell;
