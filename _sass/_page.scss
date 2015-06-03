@@ -304,7 +304,7 @@ header .entry-meta {
 	top: -20px;
 	left: 0;
 	right: 0;
-	height: 35px;
+	height: 20px;
 	a {
 		@extend .btn;
 	}
@@ -314,7 +314,7 @@ header .entry-meta {
 	// Dotted line underlines for links
 	p > a,
 	li > a {
-		border-bottom: 1px dotted lighten($link-color, 50);
+		border-bottom: 0px dotted lighten($link-color, 50);
 		&:hover {
 			border-bottom-style: solid;
 		}
