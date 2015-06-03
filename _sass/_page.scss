@@ -319,7 +319,7 @@ header .entry-meta {
 			border-bottom-style: solid;
 		}
 	}
-	h3 {
+	h4 {
 		margin: 0;
 		@include font-rem(25);
 		a { 
@@ -336,7 +336,7 @@ header .entry-meta {
 .list-item {
 	width: 100%;
 	text-align: left;
-	h4 { 
+	h5 { 
 		@include font-rem(18);
 		margin-bottom: 0; 
 	}
