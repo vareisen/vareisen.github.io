@@ -66,14 +66,14 @@ svg:not(:root) {
   margin-bottom: 15px;
   padding: 9px 38px;
   @include font-rem(14);
-  background-color: #555;
+  background-color: #fff;
   color: #555;
   border-width: 1px !important;
   border-style: solid !important;
   border-color: #fff;
   @include rounded(3px);
   &:visited {
-    color: $white;
+    color: #555;
   }
   &:hover {
     background-color: #fff;
