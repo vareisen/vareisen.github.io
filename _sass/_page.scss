@@ -3,6 +3,7 @@ body {
 	padding: 0;
 	width: 100%;
 	background-color: #00AFF0;
+	color: #fff;
 	// background-image: url(http://i.imgur.com/i5nhUmj.jpg);
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -14,12 +15,14 @@ body {
 // --------------------------------------------------
 .entry,
 .hentry {
+	color: #fff;
 	@include clearfix;
 	h1, h2, h3, h4, h5, h6, p, li {
 		word-wrap: break-word;
 	}
 }
 .entry-content {
+	color: #fff;
 	@include font-size(20);
 	// Dotted line underlines for links
 	p > a,
@@ -34,11 +37,13 @@ body {
 // Entry Header
 // --------------------------------------------------
 .entry-header {
+	color: #fff;
 	width: 100%;
 	overflow: hidden;
 	position: relative;
 }
 .header-title {
+	color: #fff;
 	text-align: center;
 	margin: 50px 0 0;
 	// margin: 30px 0 0;
@@ -70,6 +75,7 @@ body {
 }
 .feature .header-title {
 	position: absolute;
+	color: #fff;
 	top: 0;
 	display: table;
 	margin-top: 0;
@@ -200,6 +206,7 @@ body {
 	}
 }
 header .entry-meta {
+	color: #fff;
 	display: none; // hide header meta on small screens
 	@media #{$medium} {
 		display: block;
@@ -209,6 +216,7 @@ header .entry-meta {
 #page {
 	.entry-content {
 		margin: 40px 2px 20px 2px;
+		color: #fff;
 		padding: 10px 15px;
 		background-color: #00AFF0;
 		//box-shadow: 0 0 0 0, 0 6px 12px rgba($black,0.1);
@@ -251,11 +259,13 @@ header .entry-meta {
 }
 .entry-tags {
 	display: block;
+	color: #fff;
 	margin-bottom: 6px;
 }
 .tag-heading,
 .year-heading {
 	margin-top: 0;
+	color: #fff;
 }
 // Permalink icon for link post
 .permalink {
@@ -283,6 +293,7 @@ header .entry-meta {
 .read-more {
 	position: relative;
 	margin: 15px 2px 15px 2px;
+	color: #fff;
 	padding: 15px 15px 1px;
 	background-color: $white;
 	//box-shadow: 0 0 0 1px rgba($border-color,0.1), 0 6px 12px rgba($black,0.1);
@@ -335,6 +346,7 @@ header .entry-meta {
 }
 .list-item {
 	width: 100%;
+	color: #fff;
 	text-align: left;
 	h5 { 
 		@include font-rem(20);
@@ -358,6 +370,7 @@ header .entry-meta {
 // --------------------------------------------------
 #post-index {
 	#main {
+		color: #fff;
 		margin: 40px 2px 20px 2px;
 		@media #{$medium} {
 			margin-left: 20px;
@@ -414,7 +427,7 @@ header .entry-meta {
 	@include clearfix;
 	margin: 2em auto;
 	text-align: center;
-	color: lighten($text-color,20);
+	color: #fff;
 	a {
 		color: lighten($text-color,20);
 	}
@@ -439,6 +452,7 @@ header .entry-meta {
 // --------------------------------------------------
 .upgrade {
 	padding: 10px;
+	color: #fff;
 	text-align: center;
 }
 
@@ -462,7 +476,7 @@ header .entry-meta {
 	display: inline-block;
 	@include font-rem(14);
 	background-color: $white;
-	color: $text-color;
+	color: #fff;
 	border-width: 2px !important;
 	border-style: solid !important;
 	border-color: lighten($primary,50);
