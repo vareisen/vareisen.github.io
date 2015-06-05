@@ -6,7 +6,7 @@ modified: 2014-04-04
 tags: [Documents, Download]
 ---
 
-<h1 style="color: #006699">JAVA / ANDROID DEV: </h1>
+<h2 style="color: #006699">JAVA / ANDROID DEV: </h2>
 <a href="https://drive.google.com/file/d/0B0PQXRyV7ZBra0ZQb1RTOGp1YW8/view?usp=sharing" target="_blank">1. An Introduction to Object-Oriented Programming with Java 5th Edition</a><br>
 <a href="https://drive.google.com/file/d/0B0PQXRyV7ZBraDh5bl9IdlRVMGc/view?usp=sharing" target="_blank">2. Android Application Development for For Dummies</a><br>
 <a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrQy1SNms0Y3NLcnM/view?usp=sharing" target="_blank">3. Head First Java 2nd edition</a><br>
@@ -16,14 +16,14 @@ tags: [Documents, Download]
 <a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrcnctUmFwZjdKYkE/view?usp=sharing" target="_blank">7. Android Wireless Application Development</a><br>
 <a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrcUplVTYzMHI1Qnc/view?usp=sharing" target="_blank">8. Professional android application development</a><br>
 
-<h1 style="color: #006699">ALGORITHMS: </h1>
+<h2 style="color: #006699">ALGORITHMS: </h2>
 <a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrN0ZGMmhlZERtNVk/view?usp=sharing" target="_blank">1. Algorithms (4th edition) (robert sedgewick and kevin wayne - princeton university, 2011)</a><br>
 <a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrT1hCRkoxQXpUWEU/view?usp=sharing" target="_blank">2. Notes for the course advanced algorithms (January 2000)</a><br>
 <a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrTFpicl8zVjRYRzg/view?usp=sharing" target="_blank">3. Thuật toán</a><br>
 <a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrTG5qR0R6UkVPWjA/view?usp=sharing" target="_blank">4. Algorithms - Jeff Erickson</a><br>
 <a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrbW9BZWNqYk41NGM/view?usp=sharing" target="_blank">5. Advanced Algorithms Lecture Notes (Periklis A. Papakonstantinou)</a><br>
 
-<h1 style="color: #006699">C/C++/C#/DataStructure & Algorithms:</h1><br>
+<h2 style="color: #006699">C/C++/C#/DataStructure & Algorithms:</h2><br>
 <a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrN3ZnOXkzMVkwSzA/view?usp=sharing" target="_blank">1. C++ How to program (8th Edition)</a><br>
 <a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrZUpUdnNCejA0cUk/view?usp=sharing" target="_blank">2. Beginning C++ Through Game Programming 3e - Dawson - Course Tech (2011)</a><br>
 <a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrSUxxYUp0QW1IWTQ/view?usp=sharing" target="_blank">3. C++ CookBook</a><br>
@@ -38,7 +38,7 @@ tags: [Documents, Download]
 <a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrcnBaTmtOLXMwRzQ/view?usp=sharing" target="_blank">12. Thinking in C++ Volume 2</a><br>
 <a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrQWFTdm1aczloRG8/view?usp=sharing" target="_blank">13. Visual C# 2012 How to Program</a><br>
 
-<h1 style="color: #006699">Python:</h1><br>
+<h2 style="color: #006699">Python:</h2><br>
 <a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrYk43eU1KV1BreFU/view?usp=sharing" target="_blank">1. Learn Python The Hard Way 3rd Edition</a><br>
 
-<h3>Update .... </h3>
+<h1>Update .... </h1>
