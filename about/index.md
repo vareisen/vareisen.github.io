@@ -19,7 +19,6 @@ I'm interested in <b>Android</b> apps/games development, and also an amateur web
 &#128231;<b>  minhhuy150894@gmail.com</b><br>
 
 <hr>
-<h4> Follow me on: </h4>
 <div class="fb-follow" data-href="https://www.facebook.com/david15894" data-colorscheme="light" data-layout="button" data-show-faces="false"></div>
 
 <a href="https://twitter.com/david15894" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @david15894</a>
