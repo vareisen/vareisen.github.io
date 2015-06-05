@@ -5,4 +5,7 @@ description: "Exercise evening"
 modified: 2015-05-24
 tags:
 ---
-Hôm nay cũng vui nhỉ @@
+
+<label>Hôm nay cũng vui nhỉ @@
+abcd xyz
+</label>
