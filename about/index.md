@@ -15,9 +15,8 @@ I'm interested in <b>Android</b> apps/games development, and also an amateur web
 > Hometown: Dong Thap prov, Vietnam<br>
 > Languages: Vietnamese, American English<br>
 > University: HUFLIT. Ho Chi Minh city. Vietnam<br>
-&#128222;<b> +(84) 935 059109</b><br>
-&#128231;<b>  minhhuy150894@gmail.com</b><br>
-
+&#128222; +(84) 935 059109<br>
+&#128231; minhhuy150894@gmail.com<br>
 <hr>
 <div class="fb-follow" data-href="https://www.facebook.com/david15894" data-colorscheme="light" data-layout="button" data-show-faces="false"></div>
 
