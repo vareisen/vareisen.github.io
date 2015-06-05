@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Documents Download
+title: Documents
 description: "Documents Download"
 modified: 2014-04-04
 tags: [Documents, Download]
