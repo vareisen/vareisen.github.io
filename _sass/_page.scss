@@ -51,7 +51,7 @@ body {
 		margin: 10px 20px;
 		font-weight: 30;
 		@include font-rem(30);
-		color: lighten($base-color,20);
+		color: #fff;
 		@media #{$medium} {
 			@include font-rem(30);
 		}
@@ -64,13 +64,13 @@ body {
 		@include font-rem(30);
 		text-transform: none;
 		// text-transform: uppercase;
-		color: lighten($base-color,40);
+		color: #fff;
 		@media #{$medium} {
 			@include font-rem(30);
 		}
 	}
 	p {
-		color: lighten($base-color,20);
+		color: #fff;
 	}
 }
 .feature .header-title {
@@ -92,32 +92,33 @@ body {
 		margin: 10px;
 		font-weight: 30;
 		margin: 10px 60px;
-		color: $white;
+		color: #fff;
 		text-shadow: 1px 1px 4px rgba($base-color,0.6);
 		a {
-			color: $white;
+			color: #fff;
 		}
 		@media #{$large} {
 		}
 	}
 	h2 {
 		margin: 0;
-		color: $white;
+		color: #fff;
 		text-transform: none;
 		// text-transform: uppercase;
 		@media #{$medium} {
 			a {
-				color: $white;
+				color: #fff;
 			}
 		}
 	}
 	p {
-		color: $white;
+		color: #fff;
 	}
 }
 .entry-image {
 	position: relative;
 	top: -50%; 
+	color: #fff;
 	left: -50%; 
 	width: 200%; 
 	height: 200%;
@@ -174,9 +175,9 @@ body {
 .entry-meta {
 	@include font-rem(12);
 	text-transform: uppercase;
-	color: lighten($base-color,60);
+	color: #fff;
 	a {
-		color: lighten($base-color,60);
+		color: #fff;
 	}
 	.vcard {
 		&:before {
@@ -186,7 +187,7 @@ body {
 	.tag {
 		display: inline-block;
 		margin: 4px;
-		color: $white;
+		color: #fff;
 		@include rounded(3px);
 		background-color: lighten($base-color,50);
 		span {
@@ -274,6 +275,7 @@ header .entry-meta {
 // Post Pagination Module
 .pagination {
 	margin: 20px 10px;
+	color: #fff;
 	text-align: center;
 	ul {
 		display: inline;
@@ -314,6 +316,7 @@ header .entry-meta {
 	position: absolute;
 	top: -20px;
 	left: 0;
+	color: #fff;
 	right: 0;
 	height: 20px;
 	a {
@@ -334,7 +337,7 @@ header .entry-meta {
 		margin: 0;
 		@include font-rem(20);
 		a { 
-			color: $text-color;
+			color: #fff;
 		}
 		@media #{$medium} {
 			@include font-rem(20);
@@ -355,7 +358,7 @@ header .entry-meta {
 	span { 
 		display: block;
 		@include font-rem(14);
-		color: lighten($base-color,50);
+		color: #fff;
 	}
 	@media #{$medium} {
 		width: 49%;
