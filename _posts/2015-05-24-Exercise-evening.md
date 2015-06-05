@@ -6,7 +6,4 @@ modified: 2015-05-24
 tags:
 ---
 
-Hôm nay cũng vui nhỉ @@
-abcd xyz
-
-hello
+<img src="http://i.imgur.com/hNasicx.jpg">
