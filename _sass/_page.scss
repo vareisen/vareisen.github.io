@@ -371,9 +371,10 @@ header .entry-meta {
 		}
 	}
 	article {
-		background-color: $white;
+		background-color: #00AFF0;
 		//box-shadow: 0 0 0 0, 0 6px 12px rgba($base-color,0.1);
 		@include rounded(3px);
+		color: #fff;
 		margin-bottom: 20px;
 		padding: 25px 15px;
 		@media #{$medium} {
