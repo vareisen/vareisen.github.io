@@ -22,7 +22,8 @@ tags: [Documents, Download]
 <a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrTFpicl8zVjRYRzg/view?usp=sharing" target="_blank">3. Thuật toán</a><br>
 <a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrTG5qR0R6UkVPWjA/view?usp=sharing" target="_blank">4. Algorithms - Jeff Erickson</a><br>
 <a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrbW9BZWNqYk41NGM/view?usp=sharing" target="_blank">5. Advanced Algorithms Lecture Notes (Periklis A. Papakonstantinou)</a><br>
-<h1 style="color: #006699">C/C++/C#/DataStructure & Algorithms: </h1>
+
+<h1 style="color: #006699">C/C++/C#/DataStructure & Algorithms:</h1><br>
 <a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrN3ZnOXkzMVkwSzA/view?usp=sharing" target="_blank">1. C++ How to program (8th Edition)</a><br>
 <a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrZUpUdnNCejA0cUk/view?usp=sharing" target="_blank">2. Beginning C++ Through Game Programming 3e - Dawson - Course Tech (2011)</a><br>
 <a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrSUxxYUp0QW1IWTQ/view?usp=sharing" target="_blank">3. C++ CookBook</a><br>
