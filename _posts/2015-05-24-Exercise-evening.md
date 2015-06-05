@@ -6,6 +6,5 @@ modified: 2015-05-24
 tags:
 ---
 
-<label>Hôm nay cũng vui nhỉ @@
+Hôm nay cũng vui nhỉ @@
 abcd xyz
-</label>
