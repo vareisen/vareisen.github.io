@@ -61,7 +61,7 @@
 {% unless background contains 'http://' or background contains 'https://' %}{% capture background %}{{ site.url }}/images/{{ background }}{% endcapture %}{% endunless %}
 <style type="text/css">body {background-image:url({{ background }});}</style>
 {% endif %}
-<!-- ==================================== DISABLE RIGHTCLICK ================================== -->
+<!-- ==================================== NORIGHTCLICK ================================== -->
 <body bgcolor="#FFFFFF" ondragstart="return false" onselectstart="return false">
 
 <script language=JavaScript>
@@ -106,16 +106,11 @@ document.oncontextmenu=new Function("return false")
 
 
 
-<!-- ==================================== END OF DISABLE RIGHT CLICK ================================== -->
+<!-- ==================================== END OF NO RIGHTCLICK ================================== -->
 
 
 
-
-
-
-
-
-<!-- ==================================== PERSONAL SETTINGS ================================== -->
+<!-- ==================================== PERSONAL ================================== -->
 <style>
 p.pos_fixed {
     position: fixed;
