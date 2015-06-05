@@ -37,7 +37,7 @@ tags: [Documents, Download]
 <a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrQkE5WjlBWUc3Yms/view?usp=sharing" target="_blank">11. Thinking in C++ Volume 1</a><br>
 <a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrcnBaTmtOLXMwRzQ/view?usp=sharing" target="_blank">12. Thinking in C++ Volume 2</a><br>
 <a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrQWFTdm1aczloRG8/view?usp=sharing" target="_blank">13. Visual C# 2012 How to Program</a><br>
-<h1 style="color: #006699">Python:</h1>
+<h1 style="color: #006699">Python:</h1><br>
 <a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrYk43eU1KV1BreFU/view?usp=sharing" target="_blank">1. Learn Python The Hard Way 3rd Edition</a><br>
 
 <h3>Update .... </h3>
