@@ -71,12 +71,12 @@
 //By Maximus (maximus@nsimail.com) w/ mods by DynamicDrive
 //For full source code, visit http://www.dynamicdrive.com
 
-var message="Function Disabled!";
+var message="Right-click Disabled!";
 
 ///////////////////////////////////
 function clickIE4(){
 if (event.button==2){
-alert(message);
+// alert(message);
 return false;
 }
 }
@@ -84,7 +84,7 @@ return false;
 function clickNS4(e){
 if (document.layers||document.getElementById&&!document.all){
 if (e.which==2||e.which==3){
-alert(message);
+//alert(message);
 return false;
 }
 }
@@ -98,7 +98,8 @@ else if (document.all&&!document.getElementById){
 document.onmousedown=clickIE4;
 }
 
-document.oncontextmenu=new Function("alert(message);return false")
+document.oncontextmenu=new Function()
+// document.oncontextmenu=new Function("alert(message);return false")
 
 // --> 
 </script>
