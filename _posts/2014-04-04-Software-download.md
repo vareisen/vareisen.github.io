@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Software Download
+title: Softwares
 description: "Software Download"
 modified: 2014-04-04
 tags: [Software, Download]
