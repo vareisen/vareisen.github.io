@@ -171,7 +171,31 @@ p.nice_day {
 #content {
   margin: 0 40px 40px 280px;
 }
-
+#notification {
+    position:fixed;
+    top:0px;
+    width:100%;
+    z-index:105;
+    text-align:center;
+    font-weight:normal;
+    font-size:14px;
+    font-weight:bold;
+    color:white;
+    background-color:#FF7800;
+    padding:5px;
+}
+#notification span.dismiss {
+    border:2px solid #FFF;
+    padding:0 5px;
+    cursor:pointer;
+    float:right;
+    margin-right:10px;
+}
+#notification a {
+    color:white;
+    text-decoration:none;
+    font-weight:bold
+}
 </style>
 <p style="color: #fff" class="nice_day">&#10084; have a nice day !</p>
 
@@ -206,3 +230,14 @@ p.nice_day {
 <!--======================================== RIGHT NAVIGATION =============================-->
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5566f8146b96e6e8" async="async"></script>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+$("#notification").fadeIn("slow").append('your message');
+$(".dismiss").click(function(){
+       $("#notification").fadeOut("slow");
+});
+
+
+<div id="notification" style="display: none;">
+  <span class="dismiss"><a title="dismiss this notification">x</a></span>
+</div>
