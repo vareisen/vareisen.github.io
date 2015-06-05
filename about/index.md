@@ -19,14 +19,14 @@ I'm interested in <b>Android</b> apps/games development, and also an amateur web
 &#128231;<b>  minhhuy150894@gmail.com</b><br>
 
 <hr>
-<h4> My profiles/other page: </h4>
-<a href="http://github.com/minhhuy150894" class="btn btn">GitHub</a>
-<a href="https://twitter.com/david15894" class="btn btn-info">Twitter</a>
-<a href="https://plus.google.com/u/0/+HuyNguyenMinhStormChaser" class="btn btn-danger">G+</a>
-<a href="http://daynhauhoc.com/users/david15894" class="btn btn-success">DNH</a>
-<a href="http://www.facebook.com/david15894" class="btn btn-info">Facebook</a>
-<a href="https://vn.linkedin.com/in/minhhuy150894" class="btn btn-warning">LinkedIn</a>
-<a href="https://minhhuy150894.wordpress.com" class="btn btn-info">Wordpress</a><br>
+<h4> Follow me on: </h4>
+<div class="fb-follow" data-href="https://www.facebook.com/david15894" data-colorscheme="light" data-layout="button" data-show-faces="false"></div>
+
+<a href="https://twitter.com/david15894" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @david15894</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+<div class="g-follow" data-annotation="bubble" data-height="20" data-href="//plus.google.com/u/0/100988570632993049433" data-rel="author"></div>
+
 <hr>
 Twitter Update: <br>
 <a class="twitter-timeline" href="https://twitter.com/david15894" data-widget-id="604177055412944896">Tweets by @david15894</a>
