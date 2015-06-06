@@ -39,3 +39,7 @@ tags: [Software, Download]
 <a href="http://www.eagleget.com/download/" target="_blank">2. EagleGet</a><br>
 <a href="http://www.orbitdownloader.com/download.htm" target="_blank">3. Orbit Downloader</a><br>
 <a href="http://www.flashget.com/en/download.html" target="_blank">4. FlashGet</a><br>
+
+<h2 style="color: #006699">Calculator:</h2>
+<a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrQzZDV0xSVWc4WDQ/view?usp=sharing" target="_blank">1. Casio fx-570VN PLUS</a><br>
+<a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrb3doMS0yX1NDTTg/view?usp=sharing" target="_blank">2. Microsoft Math 4</a><br>
