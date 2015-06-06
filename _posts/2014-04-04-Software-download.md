@@ -16,6 +16,9 @@ tags: [Software, Download]
 <a href="https://www.jetbrains.com/phpstorm/download/" target="_blank">7. Php Storm</a><br>
 <a href="https://notepad-plus-plus.org/download/" target="_blank">8. NotePad++</a><br>
 <a href="https://github.com/adobe/brackets/releases" target="_blank">9. Brackets</a><br>
+<a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrYTI5d2t2d0RNaUk/view?usp=sharing" target="_blank">10. ADT 23.0.4</a><br>
+<a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrTEtsRzl5VTlRODA/view?usp=sharing" target="_blank">11. Eclipse-cpp-luna-SR1-win32-x86_64</a><br>
+<a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrcXp4dDRORGJSMDA/view?usp=sharing" target="_blank">12. Eclipse-java-kepler-SR1-win32-x86_64</a><br>
 
 <h2 style="color: #006699">Web Browser:</h2>
 <a href="https://www.google.com/chrome/browser/desktop/index.html" target="_blank">1. Google Chrome</a><br>
