@@ -2,28 +2,20 @@ body {
 	margin: 0;
 	padding: 0;
 	width: 100%;
-	background-color: #E9EAED;
-	color: #fff;
-	// background-image: url(http://i.imgur.com/i5nhUmj.jpg);
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	
-	// background-color: $body-color;
+	background-color: $body-color;
 }
 
 // Main
 // --------------------------------------------------
 .entry,
 .hentry {
-	color: #fff;
 	@include clearfix;
 	h1, h2, h3, h4, h5, h6, p, li {
 		word-wrap: break-word;
 	}
 }
 .entry-content {
-	color: #fff;
-	@include font-size(20);
+	@include font-size(16);
 	// Dotted line underlines for links
 	p > a,
 	li > a {
@@ -37,50 +29,45 @@ body {
 // Entry Header
 // --------------------------------------------------
 .entry-header {
-	color: #fff;
 	width: 100%;
 	overflow: hidden;
 	position: relative;
 }
 .header-title {
-	color: #fff;
 	text-align: center;
-	margin: 50px 0 0;
-	// margin: 30px 0 0;
+	margin: 30px 0 0;
 	h1 {
 		margin: 10px 20px;
-		font-weight: 30;
-		@include font-rem(30);
-		color: #fff;
+		font-weight: 700;
+		@include font-rem(32);
+		color: lighten($base-color,20);
 		@media #{$medium} {
-			@include font-rem(30);
+			@include font-rem(48);
 		}
 		@media #{$large} {
-			@include font-rem(30);
+			@include font-rem(60);
 		}
 	}
 	h2 {
 		margin: 0;
-		@include font-rem(30);
-		text-transform: none;
-		// text-transform: uppercase;
-		color: #fff;
+		@include font-rem(18);
+		text-transform: uppercase;
+		color: lighten($base-color,40);
 		@media #{$medium} {
-			@include font-rem(30);
+			@include font-rem(24);
 		}
 	}
 	p {
-		color: #fff;
+		color: lighten($base-color,20);
 	}
 }
 .feature .header-title {
 	position: absolute;
-	color: #fff;
 	top: 0;
 	display: table;
 	margin-top: 0;
 	width: 100%;
-	height: 200px;
+	height: 400px;
 	overflow: hidden;
 	.header-title-wrap {
 		display: table-cell;
@@ -90,39 +77,37 @@ body {
 	}
 	h1 {
 		margin: 10px;
-		font-weight: 30;
+		font-weight: 700;
 		margin: 10px 60px;
-		color: #fff;
+		color: $white;
 		text-shadow: 1px 1px 4px rgba($base-color,0.6);
 		a {
-			color: #fff;
+			color: $white;
 		}
 		@media #{$large} {
 		}
 	}
 	h2 {
 		margin: 0;
-		color: #fff;
-		text-transform: none;
-		// text-transform: uppercase;
+		color: $white;
+		text-transform: uppercase;
 		@media #{$medium} {
 			a {
-				color: #fff;
+				color: $white;
 			}
 		}
 	}
 	p {
-		color: #fff;
+		color: $white;
 	}
 }
 .entry-image {
 	position: relative;
 	top: -50%; 
-	color: #fff;
 	left: -50%; 
 	width: 200%; 
 	height: 200%;
-	min-height: 300px;
+	min-height: 400px;
 	overflow: hidden;
 	&:after {
 		content: '';
@@ -175,9 +160,9 @@ body {
 .entry-meta {
 	@include font-rem(12);
 	text-transform: uppercase;
-	color: #fff;
+	color: lighten($base-color,60);
 	a {
-		color: #fff;
+		color: lighten($base-color,60);
 	}
 	.vcard {
 		&:before {
@@ -187,7 +172,7 @@ body {
 	.tag {
 		display: inline-block;
 		margin: 4px;
-		color: #fff;
+		color: $white;
 		@include rounded(3px);
 		background-color: lighten($base-color,50);
 		span {
@@ -207,7 +192,6 @@ body {
 	}
 }
 header .entry-meta {
-	color: #fff;
 	display: none; // hide header meta on small screens
 	@media #{$medium} {
 		display: block;
@@ -217,10 +201,9 @@ header .entry-meta {
 #page {
 	.entry-content {
 		margin: 40px 2px 20px 2px;
-		color: #fff;
 		padding: 10px 15px;
-		background-color: #00AFF0;
-		//box-shadow: 0 0 0 0, 0 6px 12px rgba($black,0.1);
+		background-color: $white;
+		box-shadow: 0 0 0 0, 0 6px 12px rgba($black,0.1);
 		@include rounded(3px);
 		@media #{$medium} {
 			margin-left: 10px;
@@ -240,7 +223,7 @@ header .entry-meta {
 		margin: 40px 2px 20px 2px;
 		padding: 10px 15px;
 		background-color: $white;
-		//box-shadow: 0 0 0 1px rgba($border-color,0.1), 0 6px 12px rgba($black,0.1);
+		box-shadow: 0 0 0 1px rgba($border-color,0.1), 0 6px 12px rgba($black,0.1);
 		@include rounded(3px);
 		@media #{$medium} {
 			margin-left: 10px;
@@ -260,13 +243,11 @@ header .entry-meta {
 }
 .entry-tags {
 	display: block;
-	color: #fff;
 	margin-bottom: 6px;
 }
 .tag-heading,
 .year-heading {
 	margin-top: 0;
-	color: #fff;
 }
 // Permalink icon for link post
 .permalink {
@@ -275,7 +256,6 @@ header .entry-meta {
 // Post Pagination Module
 .pagination {
 	margin: 20px 10px;
-	color: #fff;
 	text-align: center;
 	ul {
 		display: inline;
@@ -294,20 +274,19 @@ header .entry-meta {
 // Read More Module
 .read-more {
 	position: relative;
-	margin: 15px 2px 15px 2px;
-	color: #fff;
-	padding: 15px 15px 1px;
+	margin: 40px 2px 20px 2px;
+	padding: 40px 15px 25px;
 	background-color: $white;
-	//box-shadow: 0 0 0 1px rgba($border-color,0.1), 0 6px 12px rgba($black,0.1);
+	box-shadow: 0 0 0 1px rgba($border-color,0.1), 0 6px 12px rgba($black,0.1);
 	@include rounded(3px);
 	@media #{$medium} {
-		margin: 20px 10px 20px 10px;
-		padding: 20px 20px 20px;
+		margin: 50px 10px 20px 10px;
+		padding: 50px 40px 25px;
 	}
 	@media #{$large} {
 		max-width: 800px;
-		padding: 20px 20px;
-		margin: 20px auto;
+		padding: 50px 80px;
+		margin: 60px auto;
 	}
 	text-align: center;
 	@include clearfix;
@@ -316,49 +295,47 @@ header .entry-meta {
 	position: absolute;
 	top: -20px;
 	left: 0;
-	color: #fff;
 	right: 0;
-	height: 20px;
+	height: 35px;
 	a {
 		@extend .btn;
 	}
 }
 .read-more-content {
-	@include font-size(20);
+	@include font-size(16);
 	// Dotted line underlines for links
 	p > a,
 	li > a {
-		border-bottom: 0px dotted lighten($link-color, 50);
+		border-bottom: 1px dotted lighten($link-color, 50);
 		&:hover {
 			border-bottom-style: solid;
 		}
 	}
-	h5 {
+	h3 {
 		margin: 0;
-		@include font-rem(20);
+		@include font-rem(28);
 		a { 
-			color: #fff;
+			color: $text-color;
 		}
 		@media #{$medium} {
-			@include font-rem(20);
+			@include font-rem(36);
 		}
 	}
 }
 .read-more-list {
-	//border-top: solid 0px #555;
+	border-top: solid 2px lighten($base-color,80);
 }
 .list-item {
 	width: 100%;
-	color: #fff;
 	text-align: left;
-	h5 { 
-		@include font-rem(20);
+	h4 { 
+		@include font-rem(18);
 		margin-bottom: 0; 
 	}
 	span { 
 		display: block;
 		@include font-rem(14);
-		color: #fff;
+		color: lighten($base-color,50);
 	}
 	@media #{$medium} {
 		width: 49%;
@@ -373,7 +350,6 @@ header .entry-meta {
 // --------------------------------------------------
 #post-index {
 	#main {
-		color: #fff;
 		margin: 40px 2px 20px 2px;
 		@media #{$medium} {
 			margin-left: 20px;
@@ -387,10 +363,9 @@ header .entry-meta {
 		}
 	}
 	article {
-		background-color: #00AFF0;
-		//box-shadow: 0 0 0 0, 0 6px 12px rgba($base-color,0.1);
+		background-color: $white;
+		box-shadow: 0 0 0 0, 0 6px 12px rgba($base-color,0.1);
 		@include rounded(3px);
-		color: #fff;
 		margin-bottom: 20px;
 		padding: 25px 15px;
 		@media #{$medium} {
@@ -430,7 +405,7 @@ header .entry-meta {
 	@include clearfix;
 	margin: 2em auto;
 	text-align: center;
-	color: #fff;
+	color: lighten($text-color,20);
 	a {
 		color: lighten($text-color,20);
 	}
@@ -455,7 +430,6 @@ header .entry-meta {
 // --------------------------------------------------
 .upgrade {
 	padding: 10px;
-	color: #fff;
 	text-align: center;
 }
 
@@ -479,7 +453,7 @@ header .entry-meta {
 	display: inline-block;
 	@include font-rem(14);
 	background-color: $white;
-	color: #fff;
+	color: $text-color;
 	border-width: 2px !important;
 	border-style: solid !important;
 	border-color: lighten($primary,50);
