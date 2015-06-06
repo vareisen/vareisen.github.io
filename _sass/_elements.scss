@@ -67,17 +67,17 @@ svg:not(:root) {
   padding: 9px 38px;
   @include font-rem(14);
   background-color: #E9EAED;
-  color: #fff;
+  color: #4D4D4E;
   border-width: 0px !important;
   border-style: solid !important;
   border-color: #00AFF0;
   @include rounded(3px);
   &:visited {
-    color: #fff;
+    color: #4D4D4E;
   }
   &:hover {
     background-color: #E9EAED;
-    color: #fff;
+    color: #4D4D4E;
   }
 }
 .btn-inverse {
