@@ -1,3 +1,15 @@
+<!-- SCRIPT FOR GOOGLE PLUS PLUG-IN -->
+<script src="https://apis.google.com/js/platform.js" async defer></script>
+<!-- SCRIPT FOR FACEBOOK PLUG-IN -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
 <style>
   footer {
     padding-top: 35px;
@@ -5,8 +17,12 @@
     background-color: #3D5B99;
     color: rgba(255, 255, 255, 0.4);
   }
+  footer.basic{
+    color: #fff;
+    background-color: #3D5B99;
+  }
 </style>
 
-<footer>
+<footer class="basic">
   <p> Nguyen Minh Huy</p>
 </footer>
