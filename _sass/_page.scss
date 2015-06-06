@@ -81,7 +81,7 @@ body {
 		font-weight: 700;
 		margin: 10px 60px;
 		color: $white;
-		text-shadow: 1px 1px 4px rgba($base-color,0.6);
+		// text-shadow: 1px 1px 4px rgba($base-color,0.6);
 		a {
 			color: $white;
 		}
@@ -365,7 +365,7 @@ header .entry-meta {
 	}
 	article {
 		background-color: #E9EAED;
-		box-shadow: 0 0 0 0, 0 6px 12px rgba($base-color,0.1);
+		// box-shadow: 0 0 0 0, 0 6px 12px rgba($base-color,0.1);
 		@include rounded(3px);
 		margin-bottom: 20px;
 		padding: 25px 15px;
