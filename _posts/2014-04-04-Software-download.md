@@ -26,6 +26,7 @@ tags: [Software, Download]
 <a href="http://www.opera.com/computer/windows" target="_blank">3. Opera</a><br>
 <a href="https://vivaldi.com/download/" target="_blank">4. Vivaldi</a><br>
 <a href="http://www.maxthon.com/" target="_blank">5. Maxthon</a><br>
+<a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrcGdQR0t6S1ppVzQ/view?usp=sharing" target="_blank">6. Safari</a><br>
 
 <h2 style="color: #006699">Chat:</h2>
 <a href="http://www.skype.com/en/download-skype/skype-for-computer/" target="_blank">1. Skype</a><br>
