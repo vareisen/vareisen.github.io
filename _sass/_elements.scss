@@ -66,9 +66,9 @@ svg:not(:root) {
   margin-bottom: 15px;
   padding: 9px 38px;
   @include font-rem(14);
-  background-color: #00AFF0;
+  background-color: #E9EAED;
   color: #fff;
-  border-width: 1px !important;
+  border-width: 0px !important;
   border-style: solid !important;
   border-color: #00AFF0;
   @include rounded(3px);
@@ -76,7 +76,7 @@ svg:not(:root) {
     color: #fff;
   }
   &:hover {
-    background-color: #00AFF0;
+    background-color: #E9EAED;
     color: #fff;
   }
 }
