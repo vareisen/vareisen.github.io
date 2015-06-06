@@ -16,6 +16,7 @@ body {
 }
 .entry-content {
 	@include font-size(16);
+	background-color: #E9EAED;
 	// Dotted line underlines for links
 	p > a,
 	li > a {
@@ -363,7 +364,7 @@ header .entry-meta {
 		}
 	}
 	article {
-		background-color: $white;
+		background-color: #E9EAED;
 		box-shadow: 0 0 0 0, 0 6px 12px rgba($base-color,0.1);
 		@include rounded(3px);
 		margin-bottom: 20px;
