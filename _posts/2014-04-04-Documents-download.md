@@ -16,7 +16,10 @@ tags: [Documents, Download]
 <a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrcnctUmFwZjdKYkE/view?usp=sharing" target="_blank">7. Android Wireless Application Development</a><br>
 <a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrcUplVTYzMHI1Qnc/view?usp=sharing" target="_blank">8. Professional android application development</a><br>
 <a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrXzdha2hRM2VIbnc/view?usp=sharing" target="_blank">9. Beginning Java 2</a><br>
-
+<a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrcll2blVURy1VNEU/view?usp=sharing" target="_blank">10. Thinking in Java v.3</a><br>
+<a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrRlVseEpBWVV0QjA/view?usp=sharing" target="_blank">11. Beginning Programming with Java For Dummies, 4th Edition</a><br>
+<a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrVVFqWnpLbENvZG8/view?usp=sharing" target="_blank">12. Java How to Program, 9th Edition - 2012</a><br>
+<a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrWi1DX2hha2RIZms/view?usp=sharing" target="_blank">13. Java Cookbook, 2nd Edition</a><br>
 
 
 <h2 style="color: #006699">ALGORITHMS: </h2>
