@@ -22,7 +22,8 @@ body {
 	li > a {
 		// border-bottom: 1px dotted lighten($link-color, 50);
 		&:hover {
-			border-bottom-style: solid;
+			// border-bottom-style: solid;
+			border-bottom: 1px solid lighten($link-color, 50);
 		}
 	}
 }
