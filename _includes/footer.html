@@ -27,8 +27,52 @@ footer span a:link {
 footer span a:visited {
   color: #fff;
 }
+
+#footer-bar{
+    background-color: #3D5B99;
+    font-size: 15px;
+    text-align: right;
+    position: fixed;
+    width: 100%;
+    z-index: 9999;
+}
+#footer-bar ul {
+    list-style-type: none;
+    padding-left: 0;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-right: 5px;
+}
+#footer-bar ul li {
+    display: inline;
+    margin-right: 30px;
+}
+#footer-bar ul li a {
+    text-decoration: none;
+    color: #fff;
+    padding: 7px 10px;
+    border-radius: 3px;
+    transition: color 0.3s, background 0.1s;
+}
+#footer-bar ul li a:hover {
+    color: #fff;
+    background-color: #39538B;
+}
+
 </style>
 
 <footer>
   <span><a href="#">&#9650; Go Top</a></span>
 </footer>
+
+
+<div id="footer-bar">
+    <ul>
+        <li><a href="http://minhhuy150894.github.io"><b>&#127968; HOME</b></a></li>
+        <li><a href="http://minhhuy150894.github.io/posts/"><b>ALL POSTS</b> &#9660;</a></li>
+        <li><a href="http://minhhuy150894.github.io/tags/"><b>CATEGORIES</b> &#9660;</a></li>
+        <li><a href="http://minhhuy150894.github.io/Documents-download/"><b>DOCUMENTS</b></a></li>
+        <li><a href="http://minhhuy150894.github.io/Ask-me/"><b>ASK ME?</b></a></li>
+        <li><a href="http://minhhuy150894.github.io/about/"><b>ABOUT ME</b></a></li>
+    </ul>
+</div>
