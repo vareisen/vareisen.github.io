@@ -19,3 +19,6 @@ modified: 2015-06-08
 <br><br><b>10. Critique code instead of people – be kind to the coder, not to the code.</b> As much as possible, make all of your comments positive and oriented to improving the code. Relate comments to local standards, program specs, increased performance, etc.
 
 (The Psychology of Computer Programming was written way back in 1971)
+
+<br>
+<div class="fb-comments" data-href="https://www.facebook.com/photo.php?fbid=426800044160287" data-width="650" data-numposts="3" data-colorscheme="light"></div>
