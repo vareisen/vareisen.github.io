@@ -48,3 +48,7 @@ tags: [Documents, Download]
 <a href="https://drive.google.com/file/d/0B0PQXRyV7ZBrYk43eU1KV1BreFU/view?usp=sharing" target="_blank">1. Learn Python The Hard Way 3rd Edition</a><br>
 
 <h1>Update .... </h1>
+
+<br>
+
+<div class="fb-comments" data-href="https://www.facebook.com/photo.php?fbid=426800044160287" data-width="650" data-numposts="3" data-colorscheme="light"></div>
