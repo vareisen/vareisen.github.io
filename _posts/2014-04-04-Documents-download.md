@@ -49,6 +49,4 @@ tags: [Documents, Download]
 
 <h1>Update .... </h1>
 
-<br>
 
-<div class="fb-comments" data-href="https://www.facebook.com" data-width="650" data-numposts="3" data-colorscheme="light"></div>
