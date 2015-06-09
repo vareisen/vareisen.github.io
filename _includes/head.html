@@ -99,6 +99,33 @@ document.oncontextmenu=new Function("return false")
 // document.oncontextmenu=new Function("alert(message);return false")
 
 // --> 
+// ==========================
+var Notification = window.Notification || window.mozNotification || window.webkitNotification;
+
+	Notification.requestPermission(function (permission) {
+		// console.log(permission);
+	});
+
+	function show() {
+		var instance = new Notification(
+			"Hello", {
+				body: "ABCD"
+			}
+		);
+
+		instance.onclick = function () {
+			// Something to do
+		};
+		instance.onerror = function () {
+			// Something to do
+		};
+		instance.onshow = function () {
+			// Something to do
+		};
+		instance.onclose = function () {
+			// Something to do
+		};
+	}
 </script>
 
 <!-- end nori-clk-->
@@ -173,6 +200,7 @@ p.pos_fixed {
         <li><a href="http://minhhuy150894.github.io/Documents-download/"><b>Documents</b></a></li>
         <li><a href="http://minhhuy150894.github.io/Ask-me/"><b>Ask Me?</b></a></li>
         <li><a href="http://minhhuy150894.github.io/about/"><b>About Me</b></a></li>
+        <li><button type="button" onclick="show()">Notify me!</button></li>
     </ul>
 </div>
 
@@ -185,3 +213,4 @@ p.pos_fixed {
 </div>-->
 
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5566f8146b96e6e8" async="async"></script>
+
