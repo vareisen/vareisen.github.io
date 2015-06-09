@@ -20,3 +20,5 @@ I'm interested in <b>Android</b> apps/games development, also an amateur web dev
 &#128222; +(84) 935 059109<br>
 &#128231; minhhuy150894@gmail.com<br>
 
+
+</a><div id="awcc1433876878740" class="aw-widget-current"  data-locationkey="" data-unit="c" data-language="en-us" data-useip="true" data-uid="awcc1433876878740"></div><script type="text/javascript" src="http://oap.accuweather.com/launch.js"></script>
