@@ -16,7 +16,7 @@ I'm interested in <b>Android</b> apps/games development, also an amateur web dev
 - Graphic design: Adobe Photoshop, Adobe Illustrator.<br>
 - OS: MS Windows, a bit of Linux.
 <br><br><br><br><br>
-How can you contact me? Ask me something? <a href="http://minhhuy150894.github.io/Ask-me/">&#9654; Click here!</a><br>or send an email directly to <b>minhhuy150894@gmail.com</b>
+&#10067; How can you contact me? Ask me something? <a href="http://minhhuy150894.github.io/Ask-me/">&#9654; Click here!</a><br>or send an email directly to <b>minhhuy150894@gmail.com</b>
 <br>
 
 <h2 style="color: #006699">Contact details:</h2>
