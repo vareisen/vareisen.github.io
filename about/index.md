@@ -14,7 +14,7 @@ I'm interested in <b>Android</b> apps/games development, also an amateur web dev
 <h2 style="color: #006699">Contact details:</h2>
 
 > Nguyen Minh Huy (David Ng)<br>
-> Birthday: 15 - 08 - 1994<br>
+> Birthday: August 15<sup>th</sup>, 1994<br>
 > Hometown: Dong Thap prov, Vietnam<br>
 > Languages: Vietnamese, American English<br>
 > University: HUFLIT. Ho Chi Minh city. Vietnam<br>
