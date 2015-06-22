@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Java Tutorials
-description: "Learn Java in 1 day"
+description: "Java Tutorials"
 modified: 2015-06-20
 tags: [java]
 ---
