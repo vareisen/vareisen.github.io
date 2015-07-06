@@ -6,6 +6,8 @@ modified: 2015-06-20
 tags: [java]
 ---
 
+<img src="http://i.imgur.com/NQQTAig.png"><br>
+
 Let’s imagine.. 
 <br>
 You are rich and you have 50 houses, each house has a key. If you want to get into any  one of 50 houses, you have to remember the key for each. Is it difficult for you to get into? <br>
