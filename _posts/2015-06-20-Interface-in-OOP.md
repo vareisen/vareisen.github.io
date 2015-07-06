@@ -21,10 +21,9 @@ Example:  - We have  <b>”TheKey”</b> interface below:
 <br>
 {% highlight java %}
 Public interface TheKEY{
-	Public void key();
+	Public void key(); // all method in an interface end with bracket and set "abstract" as default, instant variables is set as "final"
 }
 {% endhighlight %}
-
 
 And we have <b>two</b> other class that <b>implemented “TheKey”</b> interface as below: <br>
 
@@ -50,7 +49,7 @@ Suppose we would like to get into <b>“TheFirstHouse”</b>? Just do this: <br>
 {% highlight java %}
 Public static void main(String[] agrs){
 	TheKey object = new TheFirstHouse();
-	object.key();
+	object.key(); // this key method from TheFirstHouse class.
 }
 {% endhighlight %}
 
@@ -59,7 +58,7 @@ And if we want to get into <b>“TheSecondHouse”</b> <br>
 {% highlight java %}
 Public static void main(String[] agrs){
 	TheKey object = new TheSecondHouse();
-	object.key();
+	object.key(); // this key method from TheSecondHouse class.
 }
 {% endhighlight %}
 <br>
