@@ -30,7 +30,7 @@ And we have two other class that implemented “TheKey” interface as below: <b
 Public class TheFirstHouse implements TheKey{
 	Public void key(){
 	// your code here
-}
+	}
 }
 {% endhighlight %}
 <br>
@@ -38,7 +38,7 @@ Public class TheFirstHouse implements TheKey{
 Public class TheSecondHouse implements TheKey{
 	Public void key(){
 	// your code here
-}
+	}
 }
 {% endhighlight %}
 
