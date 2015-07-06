@@ -15,7 +15,7 @@ Now continue, keep on imagining!<br>
 Each house is one class we created.<br>
 Each key (Usual key) is one method from that class. Unlocking the lock is missions of all methods. (Unlocking method in every house is different).<br>
 Now the key we use to unlock any house is called Interface! <br>
-Example:  - We have  ”TheKey” interface below:
+Example:  - We have  <b>”TheKey”</b> interface below:
 <br>
 {% highlight java %}
 Public interface TheKEY{
@@ -24,7 +24,7 @@ Public interface TheKEY{
 {% endhighlight %}
 
 
-And we have two other class that implemented “TheKey” interface as below: <br>
+And we have <b>two</b> other class that <b>implemented “TheKey”</b> interface as below: <br>
 
 {% highlight java %}
 Public class TheFirstHouse implements TheKey{
@@ -43,7 +43,7 @@ Public class TheSecondHouse implements TheKey{
 {% endhighlight %}
 
 Lets see it ! <br>
-Suppose we would like to get into “TheFirstHouse”? Just do this: <br>
+Suppose we would like to get into <b>“TheFirstHouse”</b>? Just do this: <br>
 
 {% highlight java %}
 Public static void main(String[] agrs){
@@ -52,7 +52,7 @@ Public static void main(String[] agrs){
 }
 {% endhighlight %}
 
-And if we want to get into “TheSecondHouse” <br>
+And if we want to get into <b>“TheSecondHouse”</b> <br>
 
 {% highlight java %}
 Public static void main(String[] agrs){
