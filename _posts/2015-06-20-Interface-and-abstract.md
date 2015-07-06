@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Java Tutorials
-description: "Java Tutorials"
+title: Interface and Abstract?
+description: "Interface and Abstract?"
 modified: 2015-06-20
 tags: [java]
 ---
