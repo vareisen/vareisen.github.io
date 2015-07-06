@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is Interface in OOP?
+title: [OOP] What is Interface?
 description: "What is Interface in OOP?"
 modified: 2015-06-20
 tags: [java]
