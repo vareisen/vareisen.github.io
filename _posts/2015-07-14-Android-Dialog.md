@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Android - Dialog
+title: Android Diary - Dialog
 description: "Android - Dialog"
 modified: 2015-07-14
 tags: [android]
