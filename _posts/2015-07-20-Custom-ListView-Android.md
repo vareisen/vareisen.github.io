@@ -39,7 +39,7 @@ then we setText, setImageResource for widgets, finally we return the <b>row</b> 
 <h1>Finally:</h1> <br>
 Come back to the main Activity, see <b>onCreate</b> method below: <br>
 <img src="http://i.imgur.com/Sd2ou8s.gif"> <br>
-we call <b>CustomAdapter</b> and set this adapter for the listView, view params in line 38th carefully. <br>
+we call <b>CustomAdapter</b> and set this adapter for the listView, view params in line "final Custom adapter adapter...." carefully. <br>
 To add event for listView, we add <b>setOnItemClick....</b>. I'll talk about this in later.
 <br>
 and result: <br>
