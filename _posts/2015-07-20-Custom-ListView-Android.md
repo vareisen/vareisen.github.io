@@ -30,7 +30,7 @@ return the main layout xml file, we add a listView to this layout, remember set 
 
 <h1>Step 3:</h1> <br>
 Create 2 new classes name "CustomAdapter" or anything you want, this class is extends from <b>ArrayAdapter<></b> and <b>ViewHolder</b> class <br>
-<img src="http://i.imgur.com/9kIpSnp.gif"> <br>
+<img src="http://i.imgur.com/9kIpSnp.gif"> <br> <br>
 <img src="http://i.imgur.com/LFjJcVl.gif"> <br>
 you see above, we have a constructor and a override method named <b>"getView"</b>, this method help we connecting 3 widgets in xml into 1 object and after that, returning it to the main activity class. <br>
 The <b>ViewHolder</b> class help getting widgets in xml one times in the first times we load (when scrolling down), if review it in the seecond times, just get it from row (vh = (ViewHolder) row.getTag();) <br>
