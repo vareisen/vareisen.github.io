@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Android diary - Custom ListView
-description: "Android diary - Custom ListView"
+title: Android Diary - Custom ListView
+description: "Android Diary - Custom ListView"
 modified: 2015-07-20
 tags: [Java, Android, ListView]
 ---
