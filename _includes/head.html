@@ -62,14 +62,6 @@
 {% unless background contains 'http://' or background contains 'https://' %}{% capture background %}{{ site.url }}/images/{{ background }}{% endcapture %}{% endunless %}
 <style type="text/css">body {background-image:url({{ background }});}</style>
 {% endif %}
-<!--No ri-clk-->
-<body bgcolor="#FFFFFF" ondragstart="return false" onselectstart="return false">
-
-<script language=JavaScript>
-<!--
-
-var message=" ";
-
 
 <style>
 p.pos_fixed {
