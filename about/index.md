@@ -5,27 +5,27 @@ comments: false
 modified: 2014-04-04
 ---
 
-Hello, i'm David Ng<br>
-a student in <b>Software Engineering</b> at the <b>University of Foreign Languages - Information Technology</b>, Ho Chi Minh City, Viet Nam. <br><br>
-I'm interested in <b>Android</b> apps/games development, also an amateur web developer and designer too. This page is just my blog, where i share everything about Tech, even my Life. Mostly for selfish reasons. I research things I find interesting, then write it on this public blog, where I can easily find and refer to later.
+Hello, i'm Nguyen Minh Huy (David Ng)<br>
+a student in Software Engineering <br>at the University of Foreign Languages - Information Technology (HUFLIT). HCMC. Vietnam. <br> was born on August 15<sup>th</sup>. 1994 <br> something old, something new...
+I'm love modern technology, android apps/games development, web development (such as J2EE) and graphic design also. <br>
+<br>
+Traveling is one of my favourite hobbies, travel to many places around the world. <br>
+<br>
+love UK-US music also, backstreet boys, westlife, 98degree, n'sync is all my favourite boys band.
 <br>
 <br>
+nice to meet you!
 <br>
-<b>My skills:</b><br>
-- Programming languages: <b>Java/Android</b>, C/C++/C#, Python, Html-5, Css-3, a little bit of Php, JavaScript.<br>
-- Graphic design: Adobe Photoshop, Adobe Illustrator.<br>
-- OS: MS Windows, a bit of Linux.
-<br><br><br><br><br>
-...How can you contact me? Ask me something? <a href="http://minhhuy150894.github.io/Ask-me/">&#9654; Click here!</a><br>or send an email directly to <b>minhhuy150894@gmail.com</b>
 <br>
+Scrolling down to view my contact information <br>
+it's wonderful if i recieve a response from you.
 
-<h2 style="color: #006699">Contact details:</h2>
+
+<h3>Contact information</h3>
 
 > Nguyen Minh Huy (David Ng)<br>
-> Birthday: August 15<sup>th</sup>, 1994<br>
+> Email: contact@mhuy.xyz
+> Mobile: +(84) 935 059109<br>
 > Languages: Vietnamese, American English<br>
-> University: HUFLIT. Ho Chi Minh city. Vietnam<br>
-&#128222; +(84) 935 059109<br>
-
 
 
