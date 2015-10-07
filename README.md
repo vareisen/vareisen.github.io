@@ -4,7 +4,7 @@
 > Languages: Vietnamese, American English<br>
 > University: Studies iT at HUFLIT (2013-2017). Ho Chi Minh city. Vietnam<br>
 &#128222;<b> +(84) 935 059109</b><br>
-&#128231;<b>  minhhuy150894@gmail.com</b><br>
+&#128231;<b>  contact@mhuy.xyz</b><br>
 
 <hr>
 <h4> My profiles/other page: </h4>
