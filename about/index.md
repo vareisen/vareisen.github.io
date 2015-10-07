@@ -5,6 +5,8 @@ comments: false
 modified: 2014-04-04
 ---
 
+<img src="https://i.imgur.com/d1GWJoq.jpg"> <br>
+<br>
 Hello, friends! <br>i'm <b>Nguyen Minh Huy (David Ng)</b><br>
 a student in <b>Software Engineering</b> <br>at the <b>University of Foreign Languages - Information Technology</b> (HUFLIT). HCMC. Vietnam. <br> was born on August 15<sup>th</sup>. 1994 <br> something old, something new...
 I'm love <b>modern technology, android apps/games development, web development (such as J2EE) and graphic design</b> also. <br>
