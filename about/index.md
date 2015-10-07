@@ -22,7 +22,7 @@ Scrolling down to view my contact information <br>
 <br><br><br>
 
 
-<h3>Contact information</h3>
+<h2>Contact information</h2>
 
 > <b>Nguyen Minh Huy (David Ng)</b><br>
 > Email: <b>contact@mhuy.xyz</b><br>
