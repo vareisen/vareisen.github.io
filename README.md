@@ -1,5 +1,5 @@
 <h2>How to use your own domain for github page?</h2>
-<a href="https://www.youtube.com/watch?v=sTBY0D4gLg4">View my tutorials video here!</a>
+<a href="https://www.youtube.com/watch?v=sTBY0D4gLg4" target="_blank">View my tutorials video here!</a>
 <br>
 
 
