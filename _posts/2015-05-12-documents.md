@@ -1,11 +1,11 @@
 ---
 layout:
-title: Draw VN flag in OpenGL
-description: "How to Draw VN flag in OpenGL?"
+title: Documents
+description: "Documents"
 modified: 2015-05-12
 tags: 
 ---
 
-Hello: 
+Hello i'm David Ng
 <br>
-<a href="#">Click here</a>
+<a href="https://davidng94.wordpress.com">Click here to go to my blog</a>
