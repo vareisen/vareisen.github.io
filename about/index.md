@@ -27,7 +27,7 @@ Scrolling down to view my contact information <br>
 <h2>Contact information</h2>
 
 > <b>Nguyen Minh Huy (David Ng)</b><br>
-> Email: <b>contact@mhuy.xyz</b><br>
+> Email: <b>contact@davidng.xyz</b><br>
 > Mobile: +(84) 935 059109<br>
 > Languages: Vietnamese, American English<br>
 
