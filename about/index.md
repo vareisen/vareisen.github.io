@@ -11,10 +11,6 @@ Hello, friends! <br>:: i'm Nguyen Minh Huy (David Ng)<br>
 :: a student in Software Engineering at the University of Foreign Languages - Information Technology (HUFLIT). HCMC. Vietnam. I was born on August 15<sup>th</sup>. 1994 <br> :: something old, something new...
 I'm love modern technology, android apps/games development, web development (such as J2EE) and graphic design also. 
 <br>
-<b>nice to meet you!</b>
-<br>
-
-
 <br><br><br>
 
 
