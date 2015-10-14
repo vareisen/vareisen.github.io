@@ -19,7 +19,7 @@
 	button {
 		top: 0;
 		left: 0;
-		background: #3D5B99;
+		background: #222222;
 		// background: $comp-color;
 		border: none;
 		width: 100px;
@@ -38,7 +38,7 @@
 	button:hover,
 	button.dl-active,
 	ul {
-		background: #23355B;
+		background: #33DDEE;
 	}
 	button:after {
 		content: '';
