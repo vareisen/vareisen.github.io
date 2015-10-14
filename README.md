@@ -53,12 +53,12 @@ Go to <b>_sass/_page.scss</b>
 <br>
 You have some problems and need more information? View my contact details below:
 
-<h2>Nguyen Minh Huy (David)</h2>
-> Hometown: Dong Thap province, Vn<br>
+
+> Name: Nguyen Minh Huy (David Ng)<br>
+> &#128231;<b>  contact@davidng.xyz</b><br>
 > Languages: Vietnamese, American English<br>
 > University: Studies iT at HUFLIT (2013-2017). Ho Chi Minh city. Vietnam<br>
-&#128222;<b> +(84) 935 059109</b><br>
-&#128231;<b>  contact@mhuy.xyz</b><br>
+
 
 <hr>
 <h4> My profiles/other page: </h4>
