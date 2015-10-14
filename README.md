@@ -28,16 +28,32 @@ change your title, tag, modified date time...
 <br>
 <h2>How to post code?</h2>
 use: <br>
+
+```
 {% highlight css %}
 {% endhighlight %}
+```
+
 <br>
 you can change "css" to some other languages such as cpp, java, html...
 <br>
 <br>
-More information? View my contact details below:
+<h2>How to add or change menu on the left side? </h2>
+Go to <b> _includes/navigation.html </b>
+
+<h2>How to change color or anything else in the fixed navigation bar at the top? </h2>
+Go to <b>_includes/head.html</b>
+
+<h2>How about the background color?</h2>
+Go to <b>_sass/_page.scss</b>
+
+
+
+<br>
+<br>
+You have some problems and need more information? View my contact details below:
 
 <h2>Nguyen Minh Huy (David)</h2>
-> Birthday: 15 - 08 - 1994<br>
 > Hometown: Dong Thap province, Vn<br>
 > Languages: Vietnamese, American English<br>
 > University: Studies iT at HUFLIT (2013-2017). Ho Chi Minh city. Vietnam<br>
