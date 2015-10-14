@@ -20,5 +20,3 @@ I'm love modern technology, android apps/games development, web development (suc
 > Email: <b>contact@davidng.xyz</b><br>
 > Mobile: +(84) 935 059109<br>
 > Languages: Vietnamese, American English<br>
-<br>
-:: it's wonderful if i recieve a response from you.
