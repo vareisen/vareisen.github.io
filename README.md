@@ -13,12 +13,12 @@ create new file in <b>_posts</b> folder, the name of the file should be begin wi
 In the beginning of the content, copy and paste following:
 
 ```
---- <br>
-layout: post <br>
-title:  <br>
-description: "abcd" <br>
-modified: 2014-12-23 <br>
-tags: [abc, def] <br>
+--- 
+layout: post
+title:
+description: "abcd"
+modified: 2014-12-23
+tags: [abc, def]
 ---
 ```
 
