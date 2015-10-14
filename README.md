@@ -6,20 +6,20 @@ You can fork this project to your own project. <br>
 Ex: fork and rename this repository to "yourname", you'll get the following address: yourusername.github.io/yourname
 <br>Or clone it to your local (by using gitGUI or from cmd line), modify something and push from local to your account. <br>
 <h2>How to change my title and something else? </h2>
-Go to _config.yml file and change to what you want, you can add some social account to your profile view.
+Go to <b>_config.yml</b> file and change to what you want, you can add some social account to your profile view.
 
 <h2>How to create new posts ?</h2>
-create new file in _posts folder, the name of the file should be begin with "yyyy-mm-dd" and separated by "-" (dash) and end with ".md" (markdown format). Ex: "2015-05-12-documents.md" <br>
+create new file in <b>_posts</b> folder, the name of the file should be begin with "yyyy-mm-dd" and separated by "-" (dash) and end with ".md" (markdown format). Ex: "2015-05-12-documents.md" <br>
 In the beginning of the content, copy and paste following:
 
 >
----
-layout: post
-title: 
-description: "abcd"
-modified: 2014-12-23
-tags: [abc, def]
----
+>---
+>layout: post
+>title: 
+>description: "abcd"
+>modified: 2014-12-23
+>tags: [abc, def]
+>---
 
 <br>
 change you title, tag, modified date time...
