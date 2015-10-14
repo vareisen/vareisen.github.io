@@ -12,14 +12,15 @@ Go to <b>_config.yml</b> file and change to what you want, you can add some soci
 create new file in <b>_posts</b> folder, the name of the file should be begin with "yyyy-mm-dd" and separated by "-" (dash) and end with ".md" (markdown format). Ex: "2015-05-12-documents.md" <br>
 In the beginning of the content, copy and paste following:
 
->
->--- <br>
->layout: post <br>
->title:  <br>
->description: "abcd" <br>
->modified: 2014-12-23 <br>
->tags: [abc, def] <br>
->---
+```
+--- <br>
+layout: post <br>
+title:  <br>
+description: "abcd" <br>
+modified: 2014-12-23 <br>
+tags: [abc, def] <br>
+---
+```
 
 <br>
 change you title, tag, modified date time...
