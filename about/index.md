@@ -2,6 +2,8 @@
 layout: page
 title: About me
 comments: false
+image: 
+  feature: "img.jpg"
 modified: 2014-04-04
 ---
 
