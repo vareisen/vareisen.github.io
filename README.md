@@ -55,7 +55,7 @@ You have some problems and need more information? View my contact details below:
 
 
 > Name: Nguyen Minh Huy (David Ng)<br>
-> &#128231;<b>  n@mhuy.xyz</b><br>
+> &#128231;<b>  contact@alway5.com</b><br>
 > Languages: Vietnamese, American English<br>
 > University: Studies iT at HUFLIT (2013-2017). Ho Chi Minh city. Vietnam<br>
 
@@ -63,10 +63,10 @@ You have some problems and need more information? View my contact details below:
 <hr>
 <h4> My profiles/other page: </h4>
 <br>
-<a href="https://twitter.com/david15894" class="btn btn-info">Twitter</a>
+<a href="https://twitter.com/huyng94" class="btn btn-info">Twitter</a>
 <a href="https://plus.google.com/u/0/+HuyNguyenMinhStormChaser" class="btn btn-danger">G+</a>
 <a href="http://daynhauhoc.com/users/david15894" class="btn btn-success">DNH</a>
-<a href="http://www.facebook.com/david15894" class="btn btn-info">Facebook</a>
+<a href="http://www.facebook.com/abcdevwxyz" class="btn btn-info">Facebook</a>
 <a href="https://vn.linkedin.com/in/minhhuy150894" class="btn btn-warning">LinkedIn</a>
 <br>
 <hr>
