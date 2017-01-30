@@ -57,7 +57,6 @@ You have some problems and need more information? View my contact details below:
 > Name: Nguyen Minh Huy (David Ng)<br>
 > &#128231;<b>  contact@alway5.com</b><br>
 > Languages: Vietnamese, American English<br>
-> University: Studies iT at HUFLIT (2013-2017). Ho Chi Minh city. Vietnam<br>
 
 
 <hr>
