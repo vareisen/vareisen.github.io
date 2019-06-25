@@ -9,5 +9,5 @@ Idioma
 ISBN
 **978-85-7772-080-4**
 
-![Capa do Livro](/home/higor/Desktop/alway5.github.io-master/books/capa.jpg  "Capa do Livro")
+![Capa do Livro](capa.jpg  "Capa do Livro")
 [Editora UFES](http://edufes.ufes.br/items/show/219) 
