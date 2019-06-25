@@ -1,5 +1,5 @@
-title:            Huy Nguyen
-description:      David Ng
+title:            Valdério A. Reisen
+description:      Valdério A. Reisen
 disqus_shortname: 
 reading_time:     false
 comments:         yes
@@ -10,21 +10,21 @@ url:
 
 # Owner/author information
 owner:
-  name:           David Ng
+  name:           Valdério A. Reisen
   avatar:         avatar.jpg
-  bio:            "The only thing that never changes is that everything always changes."
+  bio:            "Time Series"
   email:          
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        david15894
-  facebook:       david15894
-  github:         minhhuy150894
+  twitter:        
+  facebook:       valderio.reisen
+  github:         vareisen
   stackexchange:  
   linkedin:       
   instagram:      
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +HuyNguyenMinhStormChaser
+  google_plus:    
 
 # Background image to be tiled on all pages
 background: 
@@ -36,9 +36,9 @@ google_verify:
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:     	America/Sao_Paulo
 future:      true
-highlighter: pygments
+highlighter: rouge
 markdown:    kramdown
 gems:
   - jekyll-sitemap
